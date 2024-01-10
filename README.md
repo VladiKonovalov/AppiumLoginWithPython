@@ -14,9 +14,13 @@ Start the Appium server with the command appium.
 Test Execution:
 
 Run the tests using the command pytest test_login.py.
+
 Configuration
+
 Appium URL: http://localhost:4723/wd/hub
+
 Login URL: https://practicetestautomation.com/practice-test-login/
+
 Test Scenarios
 The project includes the following test scenarios:
 
